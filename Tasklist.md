@@ -1,5 +1,5 @@
 General Tasks:
-    -Folder Layout
+    Folder Layout
 
 Routines:
 
